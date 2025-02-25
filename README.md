@@ -7,3 +7,5 @@ This was a major step from the previous software, which was very basic for an ap
 * Toolpath window
 * G-code window to display the progress of the print
 * Limit switch fail-safes.
+
+[Here](https://youtu.be/odqODoxZzfI) is a video demo of the software.
